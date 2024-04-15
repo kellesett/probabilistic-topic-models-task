@@ -1,0 +1,10 @@
+ipykernel
+notebook
+numpy>=1.9.2
+pandas>=0.16.2
+protobuf==3.0.0
+python-dotenv
+nltk
+matplotlib
+tqdm
+bigartm10
